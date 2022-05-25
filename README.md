@@ -1,4 +1,4 @@
-# README for 2022_Lymphonets Repository
+# 2022_Lymphonets Repository
 <br>
 
 ## **Repository Framework**
